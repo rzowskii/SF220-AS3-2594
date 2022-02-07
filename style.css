@@ -32,6 +32,9 @@ ul {
   margin-right: 400px;
   padding-top: 15px;
   padding-bottom: 15px;
+  border-color: #C78565;
+  border-style: double;
+  border-width: 4px;
 }
 dl {
    background-color: #DBCBBE;
